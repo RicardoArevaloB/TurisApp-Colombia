@@ -1,0 +1,114 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.header{ 
+    align-items: center;
+    display: flex;
+    text-align: center;
+    height: 60px;
+    background-color: rgb(184, 243, 223);
+    align-content: center;
+    padding: 10px;
+}
+
+.title{
+    margin-left: 400px;
+}
+
+
+.boton a{
+    padding: 10px;
+    border-radius: 30px;
+    background-color: rgb(99, 151, 151);
+    color: #ddd7d7;
+    height: 50px;
+    margin: 20px;
+    text-decoration: none;  
+}
+
+
+
+.boton a:hover{
+    background-color: #a0c483;
+}
+
+
+
+.pinter{
+    text-align: center;
+}
+
+.R{
+    background-color: white;
+}
+.p{
+    background-color: white;
+}
+section{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color:  rgb(235, 231, 211);
+}
+
+
+.imgs img{
+    height: 200px;
+    border-radius: 5px;
+    margin: 20px; 
+}
+
+
+.GASTRONOMIA{
+    background-color: rgb(193, 238, 102);
+    
+}
+.GASTRONOMIA h1{
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    background-color: white;
+}
+
+.column {
+    flex: 1;
+    margin-right: 30px;
+}
+
+.section {
+    background-color: #d1e0c5;
+    padding: 20px;
+    margin: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+
+}
+
+.section h2 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.section p {
+    margin: 5px 0;
+    color: #0a0000;
+    
+}
+
+.ima img{
+    border-radius: 5px;
+    width: 300px;
+    
+}
+
+footer{
+    background-color: aquamarine;
+    text-align: center;
+    
+}
